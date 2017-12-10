@@ -1,5 +1,5 @@
 
-##Selective Classifier For Deep Neural Networks.
+Selective Classifier For Deep Neural Networks.
 
 Link: https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdf
 
