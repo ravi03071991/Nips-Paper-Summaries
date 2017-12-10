@@ -9,7 +9,9 @@ This repository contains the summaries of projects in this organisations.
 2. Add a folder with your Paper Name
 3. Create a Readme.md file in that folder
 4. Write your summary there. You can include additional files (E.g. reference images) under your folder
+5. Update the Readme.md at the root of this project (This File), to include a short summary of your paper
 5. Submit a pull request on github
+
 
 
 ### This is done to prevent merge conflicts
