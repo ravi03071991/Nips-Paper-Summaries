@@ -1,4 +1,4 @@
-# Nips 2017 Paper Summaries
+# README
 
 This repository contains the summaries of projects in this organisations.
 
@@ -16,7 +16,7 @@ This repository contains the summaries of projects in this organisations.
 
 ___
 
-# NIPS - 2017 Paper Implementations
+# NIPS - 2017 Paper Summaries
 
 ### Towards Accurate Binary Convolutional Neural Network
 **Link**: https://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network.pdf
